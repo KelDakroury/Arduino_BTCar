@@ -6,4 +6,4 @@ Used components:
  - 2 DC Motors
  - HC-06 bluetooth module
  - Smart phone
- The code in written in Arduino C on Arduino IDE
+ The code in written in C++ on Arduino IDE
